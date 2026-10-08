@@ -45,7 +45,7 @@ O projeto será publicado utilizando o GitHub Pages.
 
 Link:
 
-https://SEU-USUARIO.github.io/pagina-informativa-gatos/
+https://github.com/cirila432/gatos
 
 ## Licença
 
